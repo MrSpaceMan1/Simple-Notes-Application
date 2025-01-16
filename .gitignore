@@ -130,3 +130,4 @@ dist
 .pnp.*
 
 db_env.sh
+db_env.ps1
