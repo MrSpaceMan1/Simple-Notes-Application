@@ -1,0 +1,4 @@
+node_modules/
+dist/
+db_env.ps1
+db_end.sh
